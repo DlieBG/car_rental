@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2022-01-07T10:41:08.457Z" agent="5.0 (X11)" etag="TTnMIGHTunrfjZSNfmHA" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-07T10:49:15.873Z" agent="5.0 (X11)" etag="dUigEiE3UQo6A_HVBX6C" version="16.2.2" type="github">
   <diagram id="T9YhzOFRz3ybyIc2CFFb" name="Page-1">
-    <mxGraphModel dx="3093" dy="1762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1740" dy="991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="yq6vvfXI3uli9TNve_ER-16" value="Fahrzeugbestand überwachen" style="shape=umlFrame;whiteSpace=wrap;html=1;width=240;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1630" y="40" width="2260" height="1280" as="geometry" />
+          <mxGeometry x="1630" y="40" width="1850" height="1200" as="geometry" />
         </mxCell>
         <mxCell id="yq6vvfXI3uli9TNve_ER-29" value="loop Mietstation" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=14;width=140;height=30;" vertex="1" parent="1">
-          <mxGeometry x="1670" y="210" width="1690" height="1000" as="geometry" />
+          <mxGeometry x="1670" y="210" width="1690" height="950" as="geometry" />
         </mxCell>
         <mxCell id="vpkyE2I-De3JcrigjXew-1" value="Unternehmenszentrale" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="340" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vpkyE2I-De3JcrigjXew-2" value="Allgemeine Verwaltung" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="240" y="90" width="1090" height="670" as="geometry" />
+          <mxGeometry x="240" y="90" width="1040" height="670" as="geometry" />
         </mxCell>
         <mxCell id="vpkyE2I-De3JcrigjXew-8" value="Stammdaten pflegen" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="530" y="140" width="140" height="70" as="geometry" />
@@ -26,13 +26,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vpkyE2I-De3JcrigjXew-10" value="Fahrzeugbestand überwachen" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="810" y="320" width="140" height="70" as="geometry" />
+          <mxGeometry x="950" y="160" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vpkyE2I-De3JcrigjXew-11" value="Fahrzeugbestand optimieren" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="760" y="520" width="140" height="70" as="geometry" />
+          <mxGeometry x="700" y="500" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vpkyE2I-De3JcrigjXew-12" value="Fahrzeuge überführen" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="450" y="590" width="140" height="70" as="geometry" />
+          <mxGeometry x="410" y="590" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vpkyE2I-De3JcrigjXew-13" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=14;" parent="1" source="vpkyE2I-De3JcrigjXew-19" target="vpkyE2I-De3JcrigjXew-8" edge="1">
           <mxGeometry x="-0.706" y="48" width="50" height="50" relative="1" as="geometry">
@@ -55,55 +55,45 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vpkyE2I-De3JcrigjXew-17" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=14;" parent="1" source="vpkyE2I-De3JcrigjXew-11" target="vpkyE2I-De3JcrigjXew-10" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxCell id="vpkyE2I-De3JcrigjXew-17" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=14;startArrow=none;" parent="1" source="yq6vvfXI3uli9TNve_ER-58" target="vpkyE2I-De3JcrigjXew-10" edge="1">
+          <mxGeometry x="0.6087" y="-60" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="680" y="490" as="sourcePoint" />
             <mxPoint x="596.7073170731708" y="420" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vpkyE2I-De3JcrigjXew-18" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="vpkyE2I-De3JcrigjXew-17" vertex="1" connectable="0">
-          <mxGeometry x="-0.1037" y="-2" relative="1" as="geometry">
-            <mxPoint x="75" y="-35" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vpkyE2I-De3JcrigjXew-19" value="Mietstation verwalten" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="340" y="310" width="230" height="120" as="geometry" />
         </mxCell>
         <mxCell id="vpkyE2I-De3JcrigjXew-20" value="{ungleichmäßige Verteilung}" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;spacingLeft=5;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="980" y="660" width="220" height="60" as="geometry" />
+          <mxGeometry x="830" y="655" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vpkyE2I-De3JcrigjXew-21" value="condition:" style="resizeWidth=1;part=1;strokeColor=none;fillColor=none;align=left;spacingLeft=5;fontSize=14;" parent="vpkyE2I-De3JcrigjXew-20" vertex="1">
           <mxGeometry width="220" height="25" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vpkyE2I-De3JcrigjXew-22" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=14;startArrow=none;startFill=0;" parent="1" target="vpkyE2I-De3JcrigjXew-20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="730" y="580" as="sourcePoint" />
+            <mxPoint x="670" y="570" as="sourcePoint" />
             <mxPoint x="730" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vpkyE2I-De3JcrigjXew-23" value="{prognostizierte Nachfrageänderung}" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;spacingLeft=5;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1050" y="420" width="220" height="80" as="geometry" />
+        <mxCell id="vpkyE2I-De3JcrigjXew-23" value="{prognostizierte Nachfrage ist ungleich dem Bestand}" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;spacingLeft=5;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="980" y="480" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vpkyE2I-De3JcrigjXew-24" value="condition:" style="resizeWidth=1;part=1;strokeColor=none;fillColor=none;align=left;spacingLeft=5;fontSize=14;" parent="vpkyE2I-De3JcrigjXew-23" vertex="1">
           <mxGeometry width="220" height="25" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vpkyE2I-De3JcrigjXew-25" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=14;" parent="1" target="vpkyE2I-De3JcrigjXew-23" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="860" y="440" as="sourcePoint" />
+            <mxPoint x="820" y="470" as="sourcePoint" />
             <mxPoint x="790" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yq6vvfXI3uli9TNve_ER-6" value="&amp;lt;&amp;lt;actor&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Mietstation&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;dashed=0;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="520" y="810" width="160" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="yq6vvfXI3uli9TNve_ER-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=14;startArrow=none;startFill=0;" edge="1" parent="1" source="yq6vvfXI3uli9TNve_ER-6" target="vpkyE2I-De3JcrigjXew-12">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="740" y="590" as="sourcePoint" />
-            <mxPoint x="1001.8181818181815" y="670" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="400" y="810" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yq6vvfXI3uli9TNve_ER-11" value="&lt;div&gt;Mietstation&lt;br&gt;&lt;/div&gt;&lt;div&gt;Datenbank&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="100" y="10" width="110" height="130" as="geometry" />
+          <mxGeometry x="50" y="100" width="110" height="130" as="geometry" />
         </mxCell>
         <mxCell id="yq6vvfXI3uli9TNve_ER-12" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=14;" edge="1" parent="1" source="yq6vvfXI3uli9TNve_ER-11" target="vpkyE2I-De3JcrigjXew-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -281,6 +271,35 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="2590" y="850" as="sourcePoint" />
             <mxPoint x="2750" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yq6vvfXI3uli9TNve_ER-58" value="Nachfrage progrnostizieren" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="840" y="335" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yq6vvfXI3uli9TNve_ER-61" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=14;" edge="1" parent="1" source="vpkyE2I-De3JcrigjXew-11" target="yq6vvfXI3uli9TNve_ER-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="846.5307800375049" y="520.9899525457902" as="sourcePoint" />
+            <mxPoint x="973.5949613854477" y="259.02526527462624" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yq6vvfXI3uli9TNve_ER-62" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="yq6vvfXI3uli9TNve_ER-61">
+          <mxGeometry x="-0.1037" y="-2" relative="1" as="geometry">
+            <mxPoint x="83" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yq6vvfXI3uli9TNve_ER-63" value="&lt;div&gt;&amp;lt;&amp;lt;actor&amp;gt;&lt;b&gt;&amp;gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Marketing&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;dashed=0;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="415" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yq6vvfXI3uli9TNve_ER-65" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" edge="1" parent="1" source="yq6vvfXI3uli9TNve_ER-58" target="yq6vvfXI3uli9TNve_ER-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1140" y="398.7499999999998" as="sourcePoint" />
+            <mxPoint x="1370" y="398.7499999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yq6vvfXI3uli9TNve_ER-66" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" edge="1" parent="1" source="vpkyE2I-De3JcrigjXew-12" target="yq6vvfXI3uli9TNve_ER-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="669.9981725157434" y="799.9959563582254" as="sourcePoint" />
+            <mxPoint x="1071.84" y="847.5654545454545" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
