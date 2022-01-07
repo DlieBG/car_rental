@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-07T11:32:03.662Z" agent="5.0 (X11)" etag="kechHzg_eDaCoYljioOu" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-07T12:04:09.489Z" agent="5.0 (X11)" etag="i73m8QN8IxkYQi4vyKzK" version="16.2.2" type="github">
   <diagram id="T9YhzOFRz3ybyIc2CFFb" name="Page-1">
-    <mxGraphModel dx="2531" dy="1442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="3000" math="0" shadow="0">
+    <mxGraphModel dx="1740" dy="991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="3000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -409,7 +409,15 @@
           <mxGeometry x="2360" y="1400" width="480" height="970" as="geometry" />
         </mxCell>
         <mxCell id="yq6vvfXI3uli9TNve_ER-93" value="Empfangsanweisung" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;fillColor=#FFFFFF;flipH=0;spacingRight=0;spacingLeft=14;" vertex="1" parent="yq6vvfXI3uli9TNve_ER-75">
-          <mxGeometry x="80" y="80" width="200" height="40" as="geometry" />
+          <mxGeometry x="40" y="80" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yq6vvfXI3uli9TNve_ER-129" value="Stellplatz reservieren" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="yq6vvfXI3uli9TNve_ER-75">
+          <mxGeometry x="80" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yq6vvfXI3uli9TNve_ER-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;endArrow=classic;endFill=1;" edge="1" parent="yq6vvfXI3uli9TNve_ER-75" source="yq6vvfXI3uli9TNve_ER-93" target="yq6vvfXI3uli9TNve_ER-129">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="190" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="yq6vvfXI3uli9TNve_ER-76" value="Mitarbeiter" style="swimlane;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2840" y="1400" width="480" height="970" as="geometry" />
