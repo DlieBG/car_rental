@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T16:25:34.419Z" agent="5.0 (X11)" etag="EO-0CE1wu6_qohyWaHLm" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-12T16:43:44.089Z" agent="5.0 (X11)" etag="OUkbW6us4kDP5D6lVe9c" version="16.2.2" type="github">
   <diagram id="ZMPBVdDReR-dd0KNUXKv" name="Page-1">
-    <mxGraphModel dx="4208" dy="1212" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="3147" dy="881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,10 +31,10 @@
         <mxCell id="JOfPQrPtgQj5ozjjMgrj-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="JOfPQrPtgQj5ozjjMgrj-1" vertex="1">
           <mxGeometry y="208" width="330" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="JOfPQrPtgQj5ozjjMgrj-243" value="+ entferneMietwagen(mietwagen: Mietwagen)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="JOfPQrPtgQj5ozjjMgrj-1" vertex="1">
+        <mxCell id="JOfPQrPtgQj5ozjjMgrj-243" value="+ fahrzeugbestandAnfragen(): Mietwagen[]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="JOfPQrPtgQj5ozjjMgrj-1" vertex="1">
           <mxGeometry y="216" width="330" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="JOfPQrPtgQj5ozjjMgrj-244" value="+ fügeMietwagenHinzu(mietwagen: Mietwagen)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="JOfPQrPtgQj5ozjjMgrj-1" vertex="1">
+        <mxCell id="MEVId7LGXu_88SaHKJN4-26" value="+ bestandslisteErstellen(): Mietwagen[]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="JOfPQrPtgQj5ozjjMgrj-1">
           <mxGeometry y="242" width="330" height="26" as="geometry" />
         </mxCell>
         <mxCell id="JOfPQrPtgQj5ozjjMgrj-5" value="Mietwagen" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
@@ -70,11 +70,11 @@
         <mxCell id="JOfPQrPtgQj5ozjjMgrj-31" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="JOfPQrPtgQj5ozjjMgrj-29" vertex="1">
           <mxGeometry y="104" width="350" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="JOfPQrPtgQj5ozjjMgrj-101" value="+ erstellePerformancebericht(): Performancebericht" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="JOfPQrPtgQj5ozjjMgrj-29" vertex="1">
+        <mxCell id="MEVId7LGXu_88SaHKJN4-25" value="+ fahrzeugbestandÜberwachen()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="JOfPQrPtgQj5ozjjMgrj-29">
           <mxGeometry y="112" width="350" height="26" as="geometry" />
         </mxCell>
         <mxCell id="JOfPQrPtgQj5ozjjMgrj-33" value="Performancebericht" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="580" y="76" width="200" height="86" as="geometry" />
+          <mxGeometry x="580" y="63" width="200" height="86" as="geometry" />
         </mxCell>
         <mxCell id="JOfPQrPtgQj5ozjjMgrj-34" value="+ dashboards: Dashboard[]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="JOfPQrPtgQj5ozjjMgrj-33" vertex="1">
           <mxGeometry y="26" width="200" height="26" as="geometry" />
@@ -401,6 +401,33 @@
             <mxPoint x="-210" y="970" as="sourcePoint" />
             <mxPoint x="-50" y="970" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="MEVId7LGXu_88SaHKJN4-16" value="Marketing" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="-521" y="40" width="160" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="MEVId7LGXu_88SaHKJN4-17" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="MEVId7LGXu_88SaHKJN4-16">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="MEVId7LGXu_88SaHKJN4-18" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="MEVId7LGXu_88SaHKJN4-16">
+          <mxGeometry y="52" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="MEVId7LGXu_88SaHKJN4-19" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="MEVId7LGXu_88SaHKJN4-16">
+          <mxGeometry y="60" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="MEVId7LGXu_88SaHKJN4-20" value="Datenbank" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="-521" y="200" width="321" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="MEVId7LGXu_88SaHKJN4-21" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="MEVId7LGXu_88SaHKJN4-20">
+          <mxGeometry y="26" width="321" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="MEVId7LGXu_88SaHKJN4-22" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="MEVId7LGXu_88SaHKJN4-20">
+          <mxGeometry y="52" width="321" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="MEVId7LGXu_88SaHKJN4-23" value="+ fahrzeugeAbfragen(): Mietwagen[]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="MEVId7LGXu_88SaHKJN4-20">
+          <mxGeometry y="60" width="321" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="MEVId7LGXu_88SaHKJN4-24" value="+ fahrtenAbfragen(): Fahrt[]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="MEVId7LGXu_88SaHKJN4-20">
+          <mxGeometry y="86" width="321" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
