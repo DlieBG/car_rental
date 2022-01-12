@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T16:36:42.931Z" agent="5.0 (X11)" etag="-AMrBfQL3Ki9E19jJ6sH" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-12T16:38:52.175Z" agent="5.0 (X11)" etag="WcnCgYukM_LSvBV9HxnA" version="16.2.2" type="github">
   <diagram id="T9YhzOFRz3ybyIc2CFFb" name="Page-1">
-    <mxGraphModel dx="3480" dy="1983" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="3000" math="0" shadow="0">
+    <mxGraphModel dx="773" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="3000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -175,7 +175,7 @@
         <mxCell id="yq6vvfXI3uli9TNve_ER-33" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=14;" parent="yq6vvfXI3uli9TNve_ER-20" vertex="1">
           <mxGeometry x="85" y="324" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yq6vvfXI3uli9TNve_ER-36" value="reservierungenAbfragen()" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;rounded=0;fontSize=14;exitX=1.167;exitY=0.43;exitDx=0;exitDy=0;exitPerimeter=0;" parent="yq6vvfXI3uli9TNve_ER-20" edge="1">
+        <mxCell id="yq6vvfXI3uli9TNve_ER-36" value="fahrtenAbfragen()" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;rounded=0;fontSize=14;exitX=1.167;exitY=0.43;exitDx=0;exitDy=0;exitPerimeter=0;" parent="yq6vvfXI3uli9TNve_ER-20" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-303.3299999999999" y="336.35" as="sourcePoint" />
             <mxPoint x="85" y="335.0000000000001" as="targetPoint" />
@@ -205,7 +205,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yq6vvfXI3uli9TNve_ER-35" value="reservierungenAbfragen: Reservierung[]" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;dashed=1;rounded=0;fontSize=14;" parent="1" edge="1">
+        <mxCell id="yq6vvfXI3uli9TNve_ER-35" value="fahrtenAbfragen: Fahrt[]" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;dashed=1;rounded=0;fontSize=14;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="2645" y="481" as="sourcePoint" />
             <mxPoint x="2255" y="481" as="targetPoint" />
