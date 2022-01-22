@@ -1,1 +1,92 @@
-<mxfile host="Electron" modified="2022-01-03T16:14:31.652Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/16.1.2 Chrome/96.0.4664.55 Electron/16.0.5 Safari/537.36" etag="cDE_sLTobrYIUHFM5zgM" version="16.1.2" type="device"><diagram id="rWbYprW9HPqFm0baPvF3" name="Page-1">7VrbcuI4EP0aHrOFr4FHQpKZh2SKmtTO7DwKW7E1K1us1I4hX78tI4FvsEwmF9cWD4DVasvSOX2kpmHkzbP1J0lW6b2IKR+543g98q5Hrutc+mP80JaNsYynk60lkSw2tr3hgT1T62isBYupajiCEBzYqmmMRJ7TCBo2IqUom26PgjefuiIJ7RgeIsK71u8shtRYnXC67/hMWZKaR0/cy21HRqyzWYlKSSzKmsm7GXlzKQRsr7L1nHKNnsVle9/tgd7dxCTN4ZQb7sry5ueFl8vHZBUvlgv4MxQXZpQnwguz4JEbchzv6lHgsDhr2Bgown8KYTsuVEXUDB0cf7Xed+JVoj9nnCc0oyyn6PKNypJwKPIEGxf4WlCpRI4Ys1wReNbL4CSnuX02LmL7+O1gBr/dTFwpijymel1j7C5TBvRhRSLdW2Icoi2FjGPLwcsnKoEhoTPOkhxtIFa7MevoWSjQna5rJoPmJyoyCnKDLrbXNTFgYtvGelmLk7FlP63FiD81RmKCM9mNvecPLwyFv0Cn24GKxhjOppkLpMO7aqInJKQi0WzcCY1MhdlPCrAxYiQFiCaiCJnc/GXurxo/dOOPwDav1/XO641paU7NoI5b9cYzLdH91NByy/SSK/+DHClRyIgewcHb+unFH2VSUk6APTW13seKuXUhWKUKGwGTZgS4kxaxQGRCwdzV4nY3jZfT7XXU+/lrJwJw31npyyLjswiErEnijiwpXwjFgAktjaUAENlBzdRCQBTAUdzz3a57lK9f0FQL0KCrKa9HUeFbCcr3B62omKi0eq7TIy+F0QctgVW2msRqEow4UYpFDRU6v6dCe2BXKjjmGLy2Xn+P9OBM+juQHg6KdK+bCrXSFJ2j6PlKBTiezlbaQcI5pqX0v1OSNmmvsXG2jyI36GYjYc/W6ThvtndOzzJ6uYz8E2XkT4YlI78joy8CSoSFJfq7wAOQLIsJaPmMkXl8nxUK4dNfD5TtWFJJGQxRZ2FLZ5OepP+dZTbuAnSW2akyC049rfxBycwf9je9/wvp00GRbud9OEWpVVIGtGf67uByE5t8HoVyNPdGV/Olrl5F6cAx9T7+ILJqqWF6z1BjSzzKqcSO5wLf7hnFg53oikN11D8XQsZDi9j2KT+AiPV7S7Uk02CYomm9xfKIF7pybq1Jw6e/roroQBNbBVL8TeeC67qR3awfcRNumYgpFEWIOa2XmGwFKWNxzA+R2Tyn3oDPwG/yueOuxmcfnd6bsdkt3Z3ZPFmd4wNl1w9js3uanNk8lU0vGBqbl2c2X85mq4LvTT+azUmHzRuJD86ZUrogQQpV6tUNKwGZekMrMwTn/OPldE7CVv7R81vxK6kCm/v/FGx/aNz/NcO7+Rc=</diagram></mxfile>
+<mxfile host="65bd71144e">
+    <diagram id="rWbYprW9HPqFm0baPvF3" name="Page-1">
+        <mxGraphModel dx="2810" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="LwwEj-3nrfgpdPbPtU6o-1" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Allgemeine Verwaltung - Personaleinsatz planen&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+                    <mxGeometry x="129" y="40" width="1020" height="490" as="geometry"/>
+                </mxCell>
+                <mxCell id="LwwEj-3nrfgpdPbPtU6o-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="LwwEj-3nrfgpdPbPtU6o-31" target="LwwEj-3nrfgpdPbPtU6o-39" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="429" y="280" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="LwwEj-3nrfgpdPbPtU6o-31" value="Personalpläne erstellen" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+                    <mxGeometry x="180" y="304" width="160" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="LwwEj-3nrfgpdPbPtU6o-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="LwwEj-3nrfgpdPbPtU6o-34" target="LwwEj-3nrfgpdPbPtU6o-36" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="LwwEj-3nrfgpdPbPtU6o-34" value="benötigte Rollen feststellen" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+                    <mxGeometry x="520" y="235" width="160" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="LwwEj-3nrfgpdPbPtU6o-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=0.963;exitY=0.345;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="LwwEj-3nrfgpdPbPtU6o-31" target="LwwEj-3nrfgpdPbPtU6o-34" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="560.9335888228561" y="238.1646090038107" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="LwwEj-3nrfgpdPbPtU6o-36" value="Nachfrage prognostizieren" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+                    <mxGeometry x="920" y="300" width="160" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="LwwEj-3nrfgpdPbPtU6o-39" value="Mitarbeiter zuweisen" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+                    <mxGeometry x="430" y="390" width="160" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="LwwEj-3nrfgpdPbPtU6o-41" value="&amp;lt;&amp;lt;includes&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+                    <mxGeometry x="340" y="414" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="LwwEj-3nrfgpdPbPtU6o-46" value="&amp;lt;&amp;lt;includes&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+                    <mxGeometry x="380" y="275" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="LwwEj-3nrfgpdPbPtU6o-48" value="Personaleinsatz überwachen" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+                    <mxGeometry x="180" y="150" width="160" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="LwwEj-3nrfgpdPbPtU6o-51" value="&amp;lt;&amp;lt;includes&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+                    <mxGeometry x="770" y="280" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="Unternehmenszentrale" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+                    <mxGeometry x="29" y="260" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LwwEj-3nrfgpdPbPtU6o-31">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="60" y="290" as="targetPoint"/>
+                        <mxPoint x="180" y="280" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="6" style="edgeStyle=none;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5" target="LwwEj-3nrfgpdPbPtU6o-36">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="&amp;lt;&amp;lt;actor&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Marketing&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;dashed=0;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="920" y="570" width="160" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LwwEj-3nrfgpdPbPtU6o-48">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="60" y="290" as="targetPoint"/>
+                        <mxPoint x="190" y="369" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="12" value="Mitarbeiter Verfügbarkeit überprüfen" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="700" y="390" width="160" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LwwEj-3nrfgpdPbPtU6o-39" target="12">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="341.5980017482525" y="393.5363938575472" as="sourcePoint"/>
+                        <mxPoint x="448.4562341128203" y="430.3889445348102" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="14" value="&amp;lt;&amp;lt;includes&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="609" y="410" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Mitarbeiter" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+                    <mxGeometry x="765" y="550" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=none;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="15" target="12">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="590" y="560" as="targetPoint"/>
+                        <mxPoint x="710" y="614.5" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
