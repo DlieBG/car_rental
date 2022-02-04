@@ -1,9 +1,12 @@
 <mxfile host="65bd71144e">
     <diagram id="T9YhzOFRz3ybyIc2CFFb" name="Page-1">
-        <mxGraphModel dx="5470" dy="2410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="3000" math="0" shadow="0">
+        <mxGraphModel dx="2344" dy="1033" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="3000" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1770" y="1350" width="1470" height="1220" as="geometry"/>
+                </mxCell>
                 <mxCell id="yq6vvfXI3uli9TNve_ER-16" value="Fahrzeugbestand überwachen" style="shape=umlFrame;whiteSpace=wrap;html=1;width=240;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fontSize=14;" parent="1" vertex="1">
                     <mxGeometry x="1630" y="40" width="1850" height="1160" as="geometry"/>
                 </mxCell>
@@ -305,9 +308,9 @@
                         <mxPoint x="1071.84" y="847.5654545454545" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="yq6vvfXI3uli9TNve_ER-73" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;" parent="1" source="yq6vvfXI3uli9TNve_ER-167" target="vpkyE2I-De3JcrigjXew-12" edge="1">
+                <mxCell id="yq6vvfXI3uli9TNve_ER-73" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;exitX=0.016;exitY=0.065;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="2" target="vpkyE2I-De3JcrigjXew-12" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="1630" y="1303.9073794159867" as="sourcePoint"/>
+                        <mxPoint x="1631.0377358490578" y="1360" as="sourcePoint"/>
                         <mxPoint x="1810" y="850" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
@@ -497,7 +500,7 @@
                     <mxGeometry x="115" y="930" width="30" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="yq6vvfXI3uli9TNve_ER-76" value="Mitarbeiter" style="swimlane;fontSize=14;" parent="1" vertex="1">
-                    <mxGeometry x="2840" y="1400" width="480" height="1100" as="geometry"/>
+                    <mxGeometry x="2840" y="1400" width="280" height="1100" as="geometry"/>
                 </mxCell>
                 <mxCell id="yq6vvfXI3uli9TNve_ER-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;endArrow=classic;endFill=1;" parent="yq6vvfXI3uli9TNve_ER-76" source="yq6vvfXI3uli9TNve_ER-141" target="yq6vvfXI3uli9TNve_ER-143" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -542,8 +545,8 @@
                 <mxCell id="yq6vvfXI3uli9TNve_ER-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;endArrow=classic;endFill=1;" parent="1" source="yq6vvfXI3uli9TNve_ER-152" target="yq6vvfXI3uli9TNve_ER-155" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="yq6vvfXI3uli9TNve_ER-167" value="Fahrzeugbestand überführen" style="shape=umlFrame;whiteSpace=wrap;html=1;width=240;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fontSize=14;" parent="1" vertex="1">
-                    <mxGeometry x="1630" y="1360" width="1850" height="1180" as="geometry"/>
+                <mxCell id="3" value="Fahrzeuge überführen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="1935" y="1360" width="130" height="20" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
